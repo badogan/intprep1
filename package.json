@@ -1,0 +1,17 @@
+{
+  "name": "gcintprep1",
+  "version": "1.0.0",
+  "description": "gcintprep1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Basri Dogan",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
