@@ -18,3 +18,15 @@
 {"postcode":"RG109N","result":"fail","data":"invalid postcode","timestamp":1593602860855}
 {"postcode":"RG109NY","result":"fail","data":"TypeError: Only absolute URLs are supported","timestamp":1593602860856}
 {"postcode":null,"result":"fail","data":"invalid postcode","timestamp":1593602860893}
+{"postcode":"RG109NY","result":"success","data":"Twyford","timestamp":1593721779725}
+{"postcode":"RG109N","result":"fail","data":"invalid postcode","timestamp":1593721779825}
+{"postcode":"RG109NY","result":"fail","data":"TypeError: Only absolute URLs are supported","timestamp":1593721779828}
+{"postcode":null,"result":"fail","data":"invalid postcode","timestamp":1593721779921}
+{"postcode":"null","result":"fail","data":"invalid postcode","timestamp":1593721799567}
+{"postcode":"9999","result":"fail","data":"invalid postcode","timestamp":1593721799577}
+{"postcode":"RG109N","result":"fail","data":"invalid postcode","timestamp":1593721799579}
+{"postcode":"{}","result":"fail","data":"invalid postcode","timestamp":1593721799572}
+{"postcode":"[]","result":"fail","data":"invalid postcode","timestamp":1593721799574}
+{"postcode":"RG109NY","result":"success","data":"Twyford","timestamp":1593721799576}
+{"postcode":"SW40NH","result":"success","data":"Lambeth, unparished area","timestamp":1593721799580}
+{"postcode":"EN48FF","result":"success","data":"Enfield, unparished area","timestamp":1593721799583}
